@@ -23,9 +23,9 @@ Looks like this:
 If your pc is beafy enough you can press play, login through your microsoft account and minecraft will launch like normal.
 
 If you get an error like this:  
-
+<br />
 ![](java-error.png)  
-
+<br />
 Just make sure you allow access on private networks and click 'Allow access'
 
 [ftb-app]: <https://www.feed-the-beast.com/ftb-app>
