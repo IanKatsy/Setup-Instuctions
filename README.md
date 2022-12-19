@@ -17,4 +17,13 @@ Instuctions for seting up the pack
 Looks like this:
 ![](modpack.png)
 
+- Press the green download button, select the '1.4.0' and download it.
+- After it finishes downloading press 'Go to Instance'.
+
+If your pc is beafy enough you can press play, login through your microsoft account and minecraft will launch like normal.
+
+If you get an error like this:
+![](java-error.png)
+Just make sure you allow access on private networks and click 'Allow access'
+
 [ftb-app]: <https://www.feed-the-beast.com/ftb-app>
