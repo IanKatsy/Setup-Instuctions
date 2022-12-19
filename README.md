@@ -26,4 +26,21 @@ If you get an error like this:  \
 ![](java-error.png)  \
 Just make sure you allow access on private networks and click 'Allow access'
 
+## Installing optifine for a performace boost:
+- Go to the [Optifine download page][ODP] and download the ['1.12.2 HD U G5'][JAR] version.
+- On the Ftb app, go to your instance, click the 3 dots and open the Mods folder. \
+![](mods.png)  \
+- Copy the '.jar' you just downloaded to the 'Mods' folder in the explorer window that just opened.
+
+You can now close the explorer and press play.
+### In game settings:
+- Video Settings \
+![](vid-set.png)  \
+- Animation Settings \
+![](anim-set.png)  \
+- Details \
+![](det-set.png)  \
+
 [ftb-app]: <https://www.feed-the-beast.com/ftb-app>
+[ODP]: <https://www.optifine.net/downloads>
+[JAR]: <http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar>
