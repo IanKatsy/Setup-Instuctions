@@ -50,11 +50,15 @@ You can now close the explorer and press play.
 - For Ftb Acadamy we will be using [java 8 (Direct download link)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html#license-lightbox).
 - Start the installer and setup java
 - After setting up java go to [The prism launchers website](https://prismlauncher.org/) 
+
+### Installing prism:
 - Download, install and run it.
 - The first time setup menu will open.
 - Select the language you want to use and click next
 - Select the path to the java binary and how much ram you want to use (recomended by anyone online 4-5 Gb I choose 6) and click finish
-- ...
+- On the top right of the main window, click profiles -> Manage Accounts -> Add microsoft , and follow the wizard to add your account.
+- To add the pack to your instances, on the main window select add instance -> FTB -> FTB Academy 1.12.
+- After downloading you can double click it to launch the game or modify it to install optifine.
 
 [ftb-app]: <https://www.feed-the-beast.com/ftb-app>
 [ODP]: <https://www.optifine.net/downloads>
