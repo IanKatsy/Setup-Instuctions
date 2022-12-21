@@ -46,8 +46,8 @@ You can now close the explorer and press play.
 
 
 ### Installing java:
-- Go to the [Java Download Website] and download the correct version:
-    For Ftb Acadamy we will be using java 8.
+- Go to the [Java Download Website] and download the correct version: \
+For Ftb Acadamy we will be using java 8.
 -
 
 [ftb-app]: <https://www.feed-the-beast.com/ftb-app>
