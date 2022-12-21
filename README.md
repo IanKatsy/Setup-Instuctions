@@ -43,12 +43,18 @@ You can now close the explorer and press play.
 
 ## Second Method:
 
-
+- This method requires a bit more know-how. I won't provide pictures to help.
 
 ### Installing java:
-- Go to the [Java Download Website] and download the correct version: \
-For Ftb Acadamy we will be using java 8.
--
+- Go to the [Java Download Website](https://www.oracle.com/java/technologies/downloads/) and download the correct version: 
+- For Ftb Acadamy we will be using [java 8 (Direct download link)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html#license-lightbox).
+- Start the installer and setup java
+- After setting up java go to [The prism launchers website](https://prismlauncher.org/) 
+- Download, install and run it.
+- The first time setup menu will open.
+- Select the language you want to use and click next
+- Select the path to the java binary and how much ram you want to use (recomended by anyone online 4-5 Gb I choose 6) and click finish
+- ...
 
 [ftb-app]: <https://www.feed-the-beast.com/ftb-app>
 [ODP]: <https://www.optifine.net/downloads>
